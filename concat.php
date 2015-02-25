@@ -15,4 +15,5 @@ echo $var1 . ' ' . $var2;
 
 echo "line 2: $var1 $var2";
 
+echo "\r\n";
 ?>
