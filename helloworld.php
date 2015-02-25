@@ -6,3 +6,11 @@
  * and open the template in the editor.
  */
 
+/**
+ * @param string $hi This is the variable
+ */
+function helloworld($hi){
+    echo $hi;    
+}
+
+
